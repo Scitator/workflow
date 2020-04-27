@@ -1,3 +1,3 @@
-alchemy-catalyst
+alchemy
 catalyst
 reaction
